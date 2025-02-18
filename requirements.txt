@@ -1,0 +1,8 @@
+requests==2.32.3
+langchain-core==0.3.35
+langchain==0.3.19
+langchain-community==0.3.17
+transformers==4.49.0
+sentence-transformers==3.4.1
+faiss-cpu==1.10.0
+streamlit==1.42.1
